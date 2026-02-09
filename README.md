@@ -1,11 +1,12 @@
 # Velog Backup - @dbwls
 
 > 자동 백업 by [Velog Backup](https://velog-backup.vercel.app)
-> 마지막 동기화: 2026-02-09 12:22 UTC
-> 총 34개 포스트 | 34개 동기화
+> 마지막 동기화: 2026-02-09 14:20 UTC
+> 총 35개 포스트 | 1개 동기화
 
 ## 포스트 목록
 
+- [Velog Backup 서비스 기능 추가 및 개선하기](posts/Velog Backup 서비스 기능 추가 및 개선하기/index.md) (2026-02-09)
 - [ROS2 오픈소스 기여하기 - rclcpp](posts/ROS2 오픈소스 기여하기 - rclcpp/index.md) (2026-02-06)
 - ['Opus 4.6' 확장됨 이게 뭐지](posts/'Opus 4.6' 확장됨 이게 뭐지/index.md) (2026-02-06)
 - [GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기](posts/GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기/index.md) (2026-02-01)
