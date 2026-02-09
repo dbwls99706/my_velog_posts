@@ -1,2 +1,42 @@
-# my_velog_posts
-Velog Backup - 자동 백업된 블로그 포스트
+# Velog Backup - @dbwls
+
+> 자동 백업 by [Velog Backup](https://velog-backup.vercel.app)
+> 마지막 동기화: 2026-02-09 07:56 UTC
+> 총 34개 포스트 | 34개 동기화
+
+## 포스트 목록
+
+- [ROS2 오픈소스 기여하기 - rclcpp](posts/ROS2 오픈소스 기여하기 - rclcpp/index.md) (2026-02-06)
+- ['Opus 4.6' 확장됨 이게 뭐지](posts/'Opus 4.6' 확장됨 이게 뭐지/index.md) (2026-02-06)
+- [GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기](posts/GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기/index.md) (2026-02-01)
+- [2025년 회고 - 로봇회사 신입으로서의 7개월](posts/2025년 회고 - 로봇회사 신입으로서의 7개월/index.md) (2026-01-29)
+- [역기전력이 뭔데 모터가 이리 빡빡해](posts/역기전력이 뭔데 모터가 이리 빡빡해/index.md) (2025-12-29)
+- [스택 오버플로우가 발생했다 근데 이게 뭐지](posts/스택 오버플로우가 발생했다 근데 이게 뭐지/index.md) (2025-12-22)
+- [TCP, UDP와 Modbus](posts/TCP, UDP와 Modbus/index.md) (2025-12-15)
+- [학점 망한 대학생의 몸통박치기 취업 회고록](posts/학점 망한 대학생의 몸통박치기 취업 회고록/index.md) (2025-12-07)
+- [Velog 백업 서비스를 제작해보자](posts/Velog 백업 서비스를 제작해보자/index.md) (2025-11-22)
+- [새로운 AI IDE: Google Antigravity 설치해보기](posts/새로운 AI IDE Google Antigravity 설치해보기/index.md) (2025-11-19)
+- [Claude Code Web한테 개발 처음부터 끝까지 시켜보기](posts/Claude Code Web한테 개발 처음부터 끝까지 시켜보기/index.md) (2025-11-18)
+- [ROS2 오픈소스 기여하기 - rclpy](posts/ROS2 오픈소스 기여하기 - rclpy/index.md) (2025-11-03)
+- [ROS2 오픈소스 기여하기 - rosbag2](posts/ROS2 오픈소스 기여하기 - rosbag2/index.md) (2025-08-18)
+- [Inverse Kinematics(역기구학)과 Singularity(특이점)](posts/Inverse Kinematics(역기구학)과 Singularity(특이점)/index.md) (2025-06-16)
+- [Forward Kinematics(정기구학)와 DH parameter](posts/Forward Kinematics(정기구학)와 DH parameter/index.md) (2025-06-02)
+- [Homogeneous Transformation Matrix](posts/Homogeneous Transformation Matrix/index.md) (2025-05-30)
+- [🍎 Git Stash로 코드 잠깐 보관하기](posts/🍎 Git Stash로 코드 잠깐 보관하기/index.md) (2025-05-27)
+- [🍎 git flow / trunk-based 브랜치 전략](posts/🍎 git flow trunk-based 브랜치 전략/index.md) (2025-05-26)
+- [🍎 Github 사용법 3. 브랜치로 협업하기 (pull request)](posts/🍎 Github 사용법 3. 브랜치로 협업하기 (pull request)/index.md) (2025-05-22)
+- [Turtlebot3를 이용한 강화학습 시뮬레이션](posts/Turtlebot3를 이용한 강화학습 시뮬레이션/index.md) (2025-05-21)
+- [🍎 Github 사용법 2. 타인과 협업하기 (git clone, pull)](posts/🍎 Github 사용법 2. 타인과 협업하기 (git clone, pull)/index.md) (2025-05-20)
+- [🍎 Github 사용법 1. 내 코드 올릴 땐 git push](posts/🍎 Github 사용법 1. 내 코드 올릴 땐 git push/index.md) (2025-05-20)
+- [🍎 코드짜다가 실수했다 되돌아가자 (git revert, reset, restore)](posts/🍎 코드짜다가 실수했다 되돌아가자 (git revert, reset, restore)/index.md) (2025-05-19)
+- [🍎 다양한 git merge 방법 (3-way, fast-forward, squash, rebase)](posts/🍎 다양한 git merge 방법 (3-way, fast-forward, squash, rebase)/index.md) (2025-05-18)
+- [🍎 git의 branch 만들기](posts/🍎 git의 branch 만들기/index.md) (2025-05-17)
+- [🍎 git add, commit, diff 쉽게 하는 법 (VSCode)](posts/🍎 git add, commit, diff 쉽게 하는 법 (VSCode)/index.md) (2025-05-16)
+- [🍎 git add, commit으로 파일 기록해놓을 수 있음](posts/🍎 git add, commit으로 파일 기록해놓을 수 있음/index.md) (2025-05-16)
+- [🍎 git 설치법 (윈도우)](posts/🍎 git 설치법 (윈도우)/index.md) (2025-05-15)
+- [git 실습: 커밋, 브랜치, 충돌 해결](posts/git 실습 커밋, 브랜치, 충돌 해결/index.md) (2025-05-10)
+- [로봇 기구학(Kinematics)과 동역학(Dynamics)](posts/로봇 기구학(Kinematics)과 동역학(Dynamics)/index.md) (2025-04-25)
+- [LLM과 RAG에 대한 개념 공부하기](posts/LLM과 RAG에 대한 개념 공부하기/index.md) (2025-03-28)
+- [Navigation과 Path Planning](posts/Navigation과 Path Planning/index.md) (2025-03-20)
+- [Cartographer SLAM: 실시간 Mapping과 Localization의 원리](posts/Cartographer SLAM 실시간 Mapping과 Localization의 원리/index.md) (2025-03-19)
+- [DeepSeek R1 모델을 내 로컬 GPU에서 실행해보기](posts/DeepSeek R1 모델을 내 로컬 GPU에서 실행해보기/index.md) (2025-03-15)
